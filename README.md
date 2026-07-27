@@ -112,7 +112,6 @@ higher scores consistently reflect more favourable attitudes.
 | `1_data/cleaned/cleaned_data.xlsx` | Cleaned dataset: eligibility-filtered, numeric-coded demographics, binary knowledge items, reverse-coded attitude items with composite score, ordinal practice variables, multi-select binary dummies, KAP scores and categories |
 
 > **Privacy note:** Raw data is excluded from version control. The cleaned file retains no
-
 > individual identifiers; participant phone numbers were not collected (anonymous questionnaire).
 
 ## Repository Structure
